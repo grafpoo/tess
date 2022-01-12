@@ -1,2 +1,2 @@
 # tess
-github actions
+github action
