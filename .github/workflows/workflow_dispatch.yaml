@@ -6,7 +6,7 @@ on:
 
 jobs:
   job1:
-    uses: grafpoo/tess/.github/workflows/called-workflow.yml@v1
+    uses: grafpoo/tess/.github/workflows/called-workflow.yaml
 
   job2:
     runs-on: ubuntu-latest
